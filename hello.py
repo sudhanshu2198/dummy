@@ -1,3 +1,5 @@
+'''Comman mathematical functions'''
+
 def add_numbers(a=6,b=9):
     '''Returns the some of two numbers'''
     return a+b
