@@ -1,0 +1,4 @@
+We are going the show the time travel principle \
+using git.
+We can checkout any previous commit to restore \
+our code base to that commit code base
