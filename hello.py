@@ -1,10 +1,13 @@
 def add_numbers(a=6,b=9):
+    '''Returns the some of two numbers'''
     return a+b
 
 def subtract_numbers(c=8,d=7):
+    '''Returns the subtraction of two numbers'''
     return c-d
 
 def divide_numbers(e=9,f=8):
+    '''Returns the division of two numbers'''
     return e/f
 
 p=add_numbers()
